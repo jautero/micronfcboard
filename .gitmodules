@@ -1,3 +1,9 @@
 [submodule "mbed"]
 	path = mbed
 	url = git@github.com:AppNearMe/mbed.git
+[submodule "CMSIS-DAP"]
+	path = CMSIS-DAP
+	url = git@github.com:AppNearMe/CMSIS-DAP.git
+[submodule "micronfcboard-python"]
+	path = micronfcboard-python
+	url = git@github.com:AppNearMe/micronfcboard-python.git
